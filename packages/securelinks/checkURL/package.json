@@ -1,0 +1,12 @@
+{
+  "name": "securelinks",
+  "version": "1.0.0",
+  "description": "Serverless QR generator",
+  "main": "checkURL.js",
+  "type": "module",
+  "dependencies": {
+    "parse-domain": "^7.0.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {}
+}
